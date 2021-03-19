@@ -27,7 +27,7 @@ public void openbrowser() throws InterruptedException {
 	loginPage.enterUserName("mehedi.hasan@orocube.net");
 	loginPage.enterUserPasword("2222");
 	loginPage.loginBtn();
-	
+	loginpage.
 		
 		
 	}
